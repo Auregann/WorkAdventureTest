@@ -31,7 +31,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/github.com\/Auregann\/WorkAdventureTest\/blob\/master\/screenshot.txt"
+                 "value":"http:\/\/auregann.fr\/test\/screenshot.txt"
                 }],
          "type":"tilelayer",
          "visible":true,
