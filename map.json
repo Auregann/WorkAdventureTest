@@ -64,16 +64,95 @@
  "tileheight":32,
  "tilesets":[
         {
+         "columns":11,
          "firstgid":1,
-         "source":"tileset1.tsx"
+         "image":"..\/workadventure-map-tcm-master\/paris\/tileset1.png",
+         "imageheight":352,
+         "imagewidth":352,
+         "margin":0,
+         "name":"tileset1",
+         "spacing":0,
+         "tilecount":121,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":12,
          "firstgid":122,
-         "source":"tileset2.tsx"
+         "image":"..\/workadventure-map-tcm-master\/paris\/tileset2.png",
+         "imageheight":320,
+         "imagewidth":384,
+         "margin":0,
+         "name":"tileset2",
+         "spacing":0,
+         "tilecount":120,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":21,
          "firstgid":242,
-         "source":"terrain.tsx"
+         "image":"..\/workadventure-map-tcm-master\/paris\/terrain.png",
+         "imageheight":736,
+         "imagewidth":672,
+         "margin":0,
+         "name":"terrain",
+         "spacing":0,
+         "tilecount":483,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":21,
+         "firstgid":725,
+         "image":"..\/workadventure-map-tcm-master\/paris\/terrain.png",
+         "imageheight":736,
+         "imagewidth":672,
+         "margin":0,
+         "name":"terrain",
+         "spacing":0,
+         "tilecount":483,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":12,
+         "firstgid":1208,
+         "image":"..\/workadventure-map-tcm-master\/paris\/tileset2.2.png",
+         "imageheight":320,
+         "imagewidth":384,
+         "margin":0,
+         "name":"tileset2.2",
+         "spacing":0,
+         "tilecount":120,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":10,
+         "firstgid":1328,
+         "image":"..\/workadventure-map-tcm-master\/paris\/tileset3.png",
+         "imageheight":320,
+         "imagewidth":320,
+         "margin":0,
+         "name":"tileset3",
+         "spacing":0,
+         "tilecount":100,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":10,
+         "firstgid":1428,
+         "image":"..\/workadventure-map-tcm-master\/paris\/tileset3.2.png",
+         "imageheight":320,
+         "imagewidth":320,
+         "margin":0,
+         "name":"tileset3.2",
+         "spacing":0,
+         "tilecount":100,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
